@@ -1,11 +1,11 @@
-# Attrixion 
-</br>Attrixion is a comprehensive data analysis and prediction project aimed at understanding and predicting customer churn. This repository contains code and data related to the exploratory data analysis (EDA) of churn data and the development of a churn prediction model.
+# ChurnWhiz
+</br>ChurnWhiz is a comprehensive data analysis and prediction project aimed at understanding and predicting customer churn. This repository contains code and data related to the exploratory data analysis (EDA) of churn data and the development of a churn prediction model.
 
 # Overview  
 </br>Customer churn, the rate at which customers stop doing business with an organization, is a critical metric for any company. Understanding the factors that contribute to churn and being able to predict it can be a game-changer in retaining valuable customers.
 
 # Project Workflow 
-<br> The Attrixion project involves the following key steps:
+<br> The ChurnWhiz project involves the following key steps:
 
 1. Exploratory Data Analysis (EDA): We start by performing an in-depth analysis of the provided dataset, which is typically stored in a file called Telco-Customer-Churn.csv. During EDA, we gain insights into the data's structure, distributions, and relationships between variables. Any missing or inconsistent data is identified and processed to ensure data quality.
 
